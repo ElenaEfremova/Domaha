@@ -1,0 +1,47 @@
+c:\users\admin\documents\visual studio 2017\Projects\lab3_EPAM\lab3_EPAM\bin\Debug\lab3_EPAM.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\lab3_EPAM\lab3_EPAM\bin\Debug\lab3_EPAM.exe
+c:\users\admin\documents\visual studio 2017\Projects\lab3_EPAM\lab3_EPAM\bin\Debug\lab3_EPAM.pdb
+c:\users\admin\documents\visual studio 2017\Projects\lab3_EPAM\lab3_EPAM\obj\Debug\lab3_EPAM.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\lab3_EPAM\lab3_EPAM\obj\Debug\lab3_EPAM.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2017\Projects\lab3_EPAM\lab3_EPAM\obj\Debug\lab3_EPAM.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2017\Projects\lab3_EPAM\lab3_EPAM\obj\Debug\lab3_EPAM.exe
+c:\users\admin\documents\visual studio 2017\Projects\lab3_EPAM\lab3_EPAM\obj\Debug\lab3_EPAM.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\lab3_EPAM\lab3_EPAM\obj\Debug\lab3_EPAM.Form1.resources
+E:\cpp\rep\1\c_lab3_pub\lab3_EPAM\bin\Debug\lab3_EPAM.exe.config
+E:\cpp\rep\1\c_lab3_pub\lab3_EPAM\obj\Debug\lab3_EPAM.exe
+E:\cpp\rep\1\c_lab3_pub\lab3_EPAM\obj\Debug\lab3_EPAM.pdb
+E:\cpp\rep\1\c_lab3_pub\lab3_EPAM\bin\Debug\lab3_EPAM.exe
+E:\cpp\rep\1\c_lab3_pub\lab3_EPAM\bin\Debug\lab3_EPAM.pdb
+E:\cpp\rep\1\c_lab3_pub\lab3_EPAM\obj\Debug\lab3_EPAM.csprojResolveAssemblyReference.cache
+E:\cpp\rep\1\c_lab3_pub\lab3_EPAM\obj\Debug\lab3_EPAM.Form1.resources
+E:\cpp\rep\1\c_lab3_pub\lab3_EPAM\obj\Debug\lab3_EPAM.Properties.Resources.resources
+E:\cpp\rep\1\c_lab3_pub\lab3_EPAM\obj\Debug\lab3_EPAM.csproj.GenerateResource.Cache
+C:\tsu\cpp\rep\c_lab3_pub\lab3_EPAM\bin\Debug\lab3_EPAM.exe.config
+C:\tsu\cpp\rep\c_lab3_pub\lab3_EPAM\obj\Debug\lab3_EPAM.exe
+C:\tsu\cpp\rep\c_lab3_pub\lab3_EPAM\obj\Debug\lab3_EPAM.pdb
+C:\tsu\cpp\rep\c_lab3_pub\lab3_EPAM\bin\Debug\lab3_EPAM.exe
+C:\tsu\cpp\rep\c_lab3_pub\lab3_EPAM\bin\Debug\lab3_EPAM.pdb
+C:\tsu\cpp\rep\c_lab3_pub\lab3_EPAM\obj\Debug\lab3_EPAM.csprojResolveAssemblyReference.cache
+C:\tsu\cpp\rep\c_lab3_pub\lab3_EPAM\obj\Debug\lab3_EPAM.Form1.resources
+C:\tsu\cpp\rep\c_lab3_pub\lab3_EPAM\obj\Debug\lab3_EPAM.Properties.Resources.resources
+C:\tsu\cpp\rep\c_lab3_pub\lab3_EPAM\obj\Debug\lab3_EPAM.csproj.GenerateResource.Cache
+F:\3к\NET\c_lab3_pub\lab3_EPAM\bin\Debug\lab3_EPAM.exe.config
+F:\3к\NET\c_lab3_pub\lab3_EPAM\bin\Debug\lab3_EPAM.exe
+F:\3к\NET\c_lab3_pub\lab3_EPAM\bin\Debug\lab3_EPAM.pdb
+F:\3к\NET\c_lab3_pub\lab3_EPAM\obj\Debug\lab3_EPAM.csprojResolveAssemblyReference.cache
+F:\3к\NET\c_lab3_pub\lab3_EPAM\obj\Debug\lab3_EPAM.Form1.resources
+F:\3к\NET\c_lab3_pub\lab3_EPAM\obj\Debug\lab3_EPAM.Properties.Resources.resources
+F:\3к\NET\c_lab3_pub\lab3_EPAM\obj\Debug\lab3_EPAM.csproj.GenerateResource.Cache
+F:\3к\NET\c_lab3_pub\lab3_EPAM\obj\Debug\lab3_EPAM.csproj.CoreCompileInputs.cache
+F:\3к\NET\c_lab3_pub\lab3_EPAM\obj\Debug\lab3_EPAM.exe
+F:\3к\NET\c_lab3_pub\lab3_EPAM\obj\Debug\lab3_EPAM.pdb
+E:\3к\NET\c_lab3_pub\lab3_EPAM\bin\Debug\lab3_EPAM.exe.config
+E:\3к\NET\c_lab3_pub\lab3_EPAM\bin\Debug\lab3_EPAM.exe
+E:\3к\NET\c_lab3_pub\lab3_EPAM\bin\Debug\lab3_EPAM.pdb
+E:\3к\NET\c_lab3_pub\lab3_EPAM\obj\Debug\lab3_EPAM.csprojResolveAssemblyReference.cache
+E:\3к\NET\c_lab3_pub\lab3_EPAM\obj\Debug\lab3_EPAM.Form1.resources
+E:\3к\NET\c_lab3_pub\lab3_EPAM\obj\Debug\lab3_EPAM.Properties.Resources.resources
+E:\3к\NET\c_lab3_pub\lab3_EPAM\obj\Debug\lab3_EPAM.csproj.GenerateResource.cache
+E:\3к\NET\c_lab3_pub\lab3_EPAM\obj\Debug\lab3_EPAM.csproj.CoreCompileInputs.cache
+E:\3к\NET\c_lab3_pub\lab3_EPAM\obj\Debug\lab3_EPAM.exe
+E:\3к\NET\c_lab3_pub\lab3_EPAM\obj\Debug\lab3_EPAM.pdb
