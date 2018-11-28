@@ -1,0 +1,9 @@
+C:\tsu\cpp\rep\c_lab5_pub\lab5\lab5Tests\bin\Debug\lab5Tests.dll
+C:\tsu\cpp\rep\c_lab5_pub\lab5\lab5Tests\bin\Debug\lab5Tests.pdb
+C:\tsu\cpp\rep\c_lab5_pub\lab5\lab5Tests\bin\Debug\lab5.exe
+C:\tsu\cpp\rep\c_lab5_pub\lab5\lab5Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\tsu\cpp\rep\c_lab5_pub\lab5\lab5Tests\bin\Debug\lab5.pdb
+C:\tsu\cpp\rep\c_lab5_pub\lab5\lab5Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\tsu\cpp\rep\c_lab5_pub\lab5\lab5Tests\obj\Debug\lab5Tests.csprojResolveAssemblyReference.cache
+C:\tsu\cpp\rep\c_lab5_pub\lab5\lab5Tests\obj\Debug\lab5Tests.dll
+C:\tsu\cpp\rep\c_lab5_pub\lab5\lab5Tests\obj\Debug\lab5Tests.pdb

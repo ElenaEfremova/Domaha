@@ -1,0 +1,7 @@
+D:\tsu\cpp\rep\c_lab6_pub\lab6_epam\lab6_epam\bin\Debug\lab6_epam.exe.config
+D:\tsu\cpp\rep\c_lab6_pub\lab6_epam\lab6_epam\bin\Debug\lab6_epam.exe
+D:\tsu\cpp\rep\c_lab6_pub\lab6_epam\lab6_epam\bin\Debug\lab6_epam.pdb
+D:\tsu\cpp\rep\c_lab6_pub\lab6_epam\lab6_epam\obj\Debug\lab6_epam.csprojResolveAssemblyReference.cache
+D:\tsu\cpp\rep\c_lab6_pub\lab6_epam\lab6_epam\obj\Debug\lab6_epam.csproj.CoreCompileInputs.cache
+D:\tsu\cpp\rep\c_lab6_pub\lab6_epam\lab6_epam\obj\Debug\lab6_epam.exe
+D:\tsu\cpp\rep\c_lab6_pub\lab6_epam\lab6_epam\obj\Debug\lab6_epam.pdb
