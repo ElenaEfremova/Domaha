@@ -1,0 +1,12 @@
+c:\users\lena\documents\visual studio 2012\Projects\laba7papka_\laba7papka_\bin\Debug\laba7papka_.exe.config
+c:\users\lena\documents\visual studio 2012\Projects\laba7papka_\laba7papka_\bin\Debug\laba7papka_.exe
+c:\users\lena\documents\visual studio 2012\Projects\laba7papka_\laba7papka_\bin\Debug\laba7papka_.pdb
+c:\users\lena\documents\visual studio 2012\Projects\laba7papka_\laba7papka_\obj\Debug\laba7papka_.exe
+c:\users\lena\documents\visual studio 2012\Projects\laba7papka_\laba7papka_\obj\Debug\laba7papka_.pdb
+C:\Users\13ann\Downloads\лабы\laba7papka_\laba7papka_\bin\Debug\laba7papka_.exe.config
+C:\Users\13ann\Downloads\лабы\laba7papka_\laba7papka_\bin\Debug\laba7papka_.exe
+C:\Users\13ann\Downloads\лабы\laba7papka_\laba7papka_\bin\Debug\laba7papka_.pdb
+C:\Users\13ann\Downloads\лабы\laba7papka_\laba7papka_\obj\Debug\laba7papka_.csprojResolveAssemblyReference.cache
+C:\Users\13ann\Downloads\лабы\laba7papka_\laba7papka_\obj\Debug\laba7papka_.csproj.CoreCompileInputs.cache
+C:\Users\13ann\Downloads\лабы\laba7papka_\laba7papka_\obj\Debug\laba7papka_.exe
+C:\Users\13ann\Downloads\лабы\laba7papka_\laba7papka_\obj\Debug\laba7papka_.pdb

@@ -1,0 +1,14 @@
+C:\Users\13ann\Downloads\лабы\laba8papka\laba8papka\bin\Debug\laba8papka.exe.config
+C:\Users\13ann\Downloads\лабы\laba8papka\laba8papka\bin\Debug\laba8papka.exe
+C:\Users\13ann\Downloads\лабы\laba8papka\laba8papka\bin\Debug\laba8papka.pdb
+C:\Users\13ann\Downloads\лабы\laba8papka\laba8papka\obj\Debug\Laba8.csprojResolveAssemblyReference.cache
+C:\Users\13ann\Downloads\лабы\laba8papka\laba8papka\obj\Debug\Laba8.csproj.CoreCompileInputs.cache
+C:\Users\13ann\Downloads\лабы\laba8papka\laba8papka\obj\Debug\laba8papka.exe
+C:\Users\13ann\Downloads\лабы\laba8papka\laba8papka\obj\Debug\laba8papka.pdb
+C:\Users\13ann\OneDrive\Документы\GitHub\Homeworks\Laba8\laba8papka\bin\Debug\laba8papka.exe.config
+C:\Users\13ann\OneDrive\Документы\GitHub\Homeworks\Laba8\laba8papka\bin\Debug\laba8papka.exe
+C:\Users\13ann\OneDrive\Документы\GitHub\Homeworks\Laba8\laba8papka\bin\Debug\laba8papka.pdb
+C:\Users\13ann\OneDrive\Документы\GitHub\Homeworks\Laba8\laba8papka\obj\Debug\Laba8.csprojResolveAssemblyReference.cache
+C:\Users\13ann\OneDrive\Документы\GitHub\Homeworks\Laba8\laba8papka\obj\Debug\Laba8.csproj.CoreCompileInputs.cache
+C:\Users\13ann\OneDrive\Документы\GitHub\Homeworks\Laba8\laba8papka\obj\Debug\laba8papka.exe
+C:\Users\13ann\OneDrive\Документы\GitHub\Homeworks\Laba8\laba8papka\obj\Debug\laba8papka.pdb

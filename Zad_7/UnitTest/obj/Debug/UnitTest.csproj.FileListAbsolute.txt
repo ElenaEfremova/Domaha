@@ -1,0 +1,7 @@
+C:\Users\Lena\documents\visual studio 2012\Projects\laba7papka_\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Lena\documents\visual studio 2012\Projects\laba7papka_\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Lena\documents\visual studio 2012\Projects\laba7papka_\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Lena\documents\visual studio 2012\Projects\laba7papka_\UnitTest\bin\Debug\laba7papka_.exe
+C:\Users\Lena\documents\visual studio 2012\Projects\laba7papka_\UnitTest\bin\Debug\laba7papka_.pdb
+C:\Users\Lena\documents\visual studio 2012\Projects\laba7papka_\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Lena\documents\visual studio 2012\Projects\laba7papka_\UnitTest\obj\Debug\UnitTest.pdb

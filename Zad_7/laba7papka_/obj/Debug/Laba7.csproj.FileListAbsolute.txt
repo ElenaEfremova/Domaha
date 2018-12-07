@@ -1,0 +1,7 @@
+C:\Users\13ann\Downloads\лабы\laba7papka_\laba7papka_\bin\Debug\Laba7.exe.config
+C:\Users\13ann\Downloads\лабы\laba7papka_\laba7papka_\bin\Debug\Laba7.exe
+C:\Users\13ann\Downloads\лабы\laba7papka_\laba7papka_\bin\Debug\Laba7.pdb
+C:\Users\13ann\Downloads\лабы\laba7papka_\laba7papka_\obj\Debug\Laba7.csprojResolveAssemblyReference.cache
+C:\Users\13ann\Downloads\лабы\laba7papka_\laba7papka_\obj\Debug\Laba7.csproj.CoreCompileInputs.cache
+C:\Users\13ann\Downloads\лабы\laba7papka_\laba7papka_\obj\Debug\Laba7.exe
+C:\Users\13ann\Downloads\лабы\laba7papka_\laba7papka_\obj\Debug\Laba7.pdb

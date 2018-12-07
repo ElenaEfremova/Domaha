@@ -1,0 +1,19 @@
+c:\users\lena\documents\visual studio 2012\Projects\лаба10\лаба10\bin\Debug\лаба10.exe.config
+c:\users\lena\documents\visual studio 2012\Projects\лаба10\лаба10\bin\Debug\лаба10.exe
+c:\users\lena\documents\visual studio 2012\Projects\лаба10\лаба10\bin\Debug\лаба10.pdb
+c:\users\lena\documents\visual studio 2012\Projects\лаба10\лаба10\obj\Debug\лаба10.csprojResolveAssemblyReference.cache
+c:\users\lena\documents\visual studio 2012\Projects\лаба10\лаба10\obj\Debug\лаба10.Form1.resources
+c:\users\lena\documents\visual studio 2012\Projects\лаба10\лаба10\obj\Debug\лаба10.Properties.Resources.resources
+c:\users\lena\documents\visual studio 2012\Projects\лаба10\лаба10\obj\Debug\лаба10.csproj.GenerateResource.Cache
+c:\users\lena\documents\visual studio 2012\Projects\лаба10\лаба10\obj\Debug\лаба10.exe
+c:\users\lena\documents\visual studio 2012\Projects\лаба10\лаба10\obj\Debug\лаба10.pdb
+C:\Users\13ann\Downloads\лабы\лаба10\лаба10\bin\Debug\лаба10.exe.config
+C:\Users\13ann\Downloads\лабы\лаба10\лаба10\bin\Debug\лаба10.exe
+C:\Users\13ann\Downloads\лабы\лаба10\лаба10\bin\Debug\лаба10.pdb
+C:\Users\13ann\Downloads\лабы\лаба10\лаба10\obj\Debug\лаба10.csprojResolveAssemblyReference.cache
+C:\Users\13ann\Downloads\лабы\лаба10\лаба10\obj\Debug\лаба10.Form1.resources
+C:\Users\13ann\Downloads\лабы\лаба10\лаба10\obj\Debug\лаба10.Properties.Resources.resources
+C:\Users\13ann\Downloads\лабы\лаба10\лаба10\obj\Debug\лаба10.csproj.GenerateResource.cache
+C:\Users\13ann\Downloads\лабы\лаба10\лаба10\obj\Debug\лаба10.csproj.CoreCompileInputs.cache
+C:\Users\13ann\Downloads\лабы\лаба10\лаба10\obj\Debug\лаба10.exe
+C:\Users\13ann\Downloads\лабы\лаба10\лаба10\obj\Debug\лаба10.pdb

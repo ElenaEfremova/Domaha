@@ -1,0 +1,28 @@
+C:\Users\user\documents\visual studio 2010\Projects\laba9\laba9\bin\Debug\laba9.exe
+C:\Users\user\documents\visual studio 2010\Projects\laba9\laba9\bin\Debug\laba9.pdb
+C:\Users\user\documents\visual studio 2010\Projects\laba9\laba9\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2010\Projects\laba9\laba9\obj\x86\Debug\MainWindow.baml
+C:\Users\user\documents\visual studio 2010\Projects\laba9\laba9\obj\x86\Debug\MainWindow.g.cs
+C:\Users\user\documents\visual studio 2010\Projects\laba9\laba9\obj\x86\Debug\App.g.cs
+C:\Users\user\documents\visual studio 2010\Projects\laba9\laba9\obj\x86\Debug\laba9_MarkupCompile.cache
+C:\Users\user\documents\visual studio 2010\Projects\laba9\laba9\obj\x86\Debug\laba9.g.resources
+C:\Users\user\documents\visual studio 2010\Projects\laba9\laba9\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2010\Projects\laba9\laba9\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\documents\visual studio 2010\Projects\laba9\laba9\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\documents\visual studio 2010\Projects\laba9\laba9\obj\x86\Debug\laba9.exe
+C:\Users\user\documents\visual studio 2010\Projects\laba9\laba9\obj\x86\Debug\laba9.pdb
+D:\laba9\laba9\obj\x86\Debug\laba9.exe
+D:\laba9\laba9\obj\x86\Debug\laba9.pdb
+C:\Users\13ann\Downloads\лабы\laba9\laba9\bin\Debug\laba9.exe
+C:\Users\13ann\Downloads\лабы\laba9\laba9\bin\Debug\laba9.pdb
+C:\Users\13ann\Downloads\лабы\laba9\laba9\obj\x86\Debug\laba9.csprojResolveAssemblyReference.cache
+C:\Users\13ann\Downloads\лабы\laba9\laba9\obj\x86\Debug\MainWindow.baml
+C:\Users\13ann\Downloads\лабы\laba9\laba9\obj\x86\Debug\MainWindow.g.cs
+C:\Users\13ann\Downloads\лабы\laba9\laba9\obj\x86\Debug\App.g.cs
+C:\Users\13ann\Downloads\лабы\laba9\laba9\obj\x86\Debug\laba9_MarkupCompile.cache
+C:\Users\13ann\Downloads\лабы\laba9\laba9\obj\x86\Debug\laba9.g.resources
+C:\Users\13ann\Downloads\лабы\laba9\laba9\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\13ann\Downloads\лабы\laba9\laba9\obj\x86\Debug\laba9.csproj.GenerateResource.cache
+C:\Users\13ann\Downloads\лабы\laba9\laba9\obj\x86\Debug\laba9.csproj.CoreCompileInputs.cache
+C:\Users\13ann\Downloads\лабы\laba9\laba9\obj\x86\Debug\laba9.exe
+C:\Users\13ann\Downloads\лабы\laba9\laba9\obj\x86\Debug\laba9.pdb
